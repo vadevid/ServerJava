@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "fio": "Кислицын Иван Александрович",
+    "age":20,
+    "email": "kislitsun-van@mail.ru"
+  },
+  {
+    "id": 2,
+    "fio": "Ширков Дмитрий Романович",
+    "age": 19,
+    "email": "kislitsun-van@mail.ru"
+  },
+  {
+    "id": 3,
+    "fio": "Бессонов Иван Анатольевич",
+    "age": 19,
+    "email": "kislitsun-van@mail.ru"
+  },
+  {
+    "id": 4,
+    "fio": "Ведерников Дмитрий Михайлович",
+    "age": 19,
+    "email": "kislitsun-van@mail.ru"
+  }
+]
